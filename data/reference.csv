@@ -1,0 +1,1124 @@
+reference,city,state,country
+1,Medellín,Antioquia,Colombia
+2,Abejorral,Antioquia,Colombia
+3,Abriaquí,Antioquia,Colombia
+4,Alejandría,Antioquia,Colombia
+5,Amagá,Antioquia,Colombia
+6,Amalfi,Antioquia,Colombia
+7,Andes,Antioquia,Colombia
+8,Angelópolis,Antioquia,Colombia
+9,Angostura,Antioquia,Colombia
+10,Anorí,Antioquia,Colombia
+11,Tununguá,Boyacá,Colombia
+12,Anza,Antioquia,Colombia
+13,Apartadó,Antioquia,Colombia
+14,Arboletes,Antioquia,Colombia
+15,Argelia,Antioquia,Colombia
+16,Armenia,Antioquia,Colombia
+17,Barbosa,Antioquia,Colombia
+18,Bello,Antioquia,Colombia
+19,Betania,Antioquia,Colombia
+20,Betulia,Antioquia,Colombia
+21,Ciudad Bolívar,Antioquia,Colombia
+22,Briceño,Antioquia,Colombia
+23,Buriticá,Antioquia,Colombia
+24,Cáceres,Antioquia,Colombia
+25,Caicedo,Antioquia,Colombia
+26,Caldas,Antioquia,Colombia
+27,Campamento,Antioquia,Colombia
+28,Cañasgordas,Antioquia,Colombia
+29,Caracolí,Antioquia,Colombia
+30,Caramanta,Antioquia,Colombia
+31,Carepa,Antioquia,Colombia
+32,Motavita,Boyacá,Colombia
+33,Carolina,Antioquia,Colombia
+34,Caucasia,Antioquia,Colombia
+35,Chigorodó,Antioquia,Colombia
+36,Cisneros,Antioquia,Colombia
+37,Cocorná,Antioquia,Colombia
+38,Concepción,Antioquia,Colombia
+39,Concordia,Antioquia,Colombia
+40,Copacabana,Antioquia,Colombia
+41,Dabeiba,Antioquia,Colombia
+42,Don Matías,Antioquia,Colombia
+43,Ebéjico,Antioquia,Colombia
+44,El Bagre,Antioquia,Colombia
+45,Entrerrios,Antioquia,Colombia
+46,Envigado,Antioquia,Colombia
+47,Fredonia,Antioquia,Colombia
+48,San Bernardo del Viento,Córdoba,Colombia
+49,Giraldo,Antioquia,Colombia
+50,Girardota,Antioquia,Colombia
+51,Gómez Plata,Antioquia,Colombia
+52,Istmina,Chocó,Colombia
+53,Guadalupe,Antioquia,Colombia
+54,Guarne,Antioquia,Colombia
+55,Guatapé,Antioquia,Colombia
+56,Heliconia,Antioquia,Colombia
+57,Hispania,Antioquia,Colombia
+58,Itagui,Antioquia,Colombia
+59,Ituango,Antioquia,Colombia
+60,Belmira,Antioquia,Colombia
+61,Jericó,Antioquia,Colombia
+62,La Ceja,Antioquia,Colombia
+63,La Estrella,Antioquia,Colombia
+64,La Pintada,Antioquia,Colombia
+65,La Unión,Antioquia,Colombia
+66,Liborina,Antioquia,Colombia
+67,Maceo,Antioquia,Colombia
+68,Marinilla,Antioquia,Colombia
+69,Montebello,Antioquia,Colombia
+70,Murindó,Antioquia,Colombia
+71,Mutatá,Antioquia,Colombia
+72,Nariño,Antioquia,Colombia
+73,Necoclí,Antioquia,Colombia
+74,Nechí,Antioquia,Colombia
+75,Olaya,Antioquia,Colombia
+76,Peñol,Antioquia,Colombia
+77,Peque,Antioquia,Colombia
+78,Pueblorrico,Antioquia,Colombia
+79,Puerto Berrío,Antioquia,Colombia
+80,Puerto Nare,Antioquia,Colombia
+81,Puerto Triunfo,Antioquia,Colombia
+82,Remedios,Antioquia,Colombia
+83,Retiro,Antioquia,Colombia
+84,Rionegro,Antioquia,Colombia
+85,Sabanalarga,Antioquia,Colombia
+86,Sabaneta,Antioquia,Colombia
+87,Salgar,Antioquia,Colombia
+88,Ciénega,Boyacá,Colombia
+89,Santacruz,Nariño,Colombia
+90,San Francisco,Antioquia,Colombia
+91,San Jerónimo,Antioquia,Colombia
+92,Puerto Wilches,Santander,Colombia
+93,Puerto Parra,Santander,Colombia
+94,San Luis,Antioquia,Colombia
+95,San Pedro,Antioquia,Colombia
+96,San Rafael,Antioquia,Colombia
+97,San Roque,Antioquia,Colombia
+98,San Vicente,Antioquia,Colombia
+99,Santa Bárbara,Antioquia,Colombia
+100,Santo Domingo,Antioquia,Colombia
+101,El Santuario,Antioquia,Colombia
+102,Segovia,Antioquia,Colombia
+103,Sopetrán,Antioquia,Colombia
+104,Uribe,Meta,Colombia
+105,Támesis,Antioquia,Colombia
+106,Tarazá,Antioquia,Colombia
+107,Tarso,Antioquia,Colombia
+108,Titiribí,Antioquia,Colombia
+109,Toledo,Antioquia,Colombia
+110,Turbo,Antioquia,Colombia
+111,Uramita,Antioquia,Colombia
+112,Urrao,Antioquia,Colombia
+113,Valdivia,Antioquia,Colombia
+114,Valparaíso,Antioquia,Colombia
+115,Vegachí,Antioquia,Colombia
+116,Venecia,Antioquia,Colombia
+117,Yalí,Antioquia,Colombia
+118,Yarumal,Antioquia,Colombia
+119,Yolombó,Antioquia,Colombia
+120,Yondó,Antioquia,Colombia
+121,Zaragoza,Antioquia,Colombia
+122,Barranquilla,Atlántico,Colombia
+123,Baranoa,Atlántico,Colombia
+124,Candelaria,Atlántico,Colombia
+125,Galapa,Atlántico,Colombia
+126,Luruaco,Atlántico,Colombia
+127,Malambo,Atlántico,Colombia
+128,Manatí,Atlántico,Colombia
+129,Piojó,Atlántico,Colombia
+130,Polonuevo,Atlántico,Colombia
+131,Sabanagrande,Atlántico,Colombia
+132,Sabanalarga,Atlántico,Colombia
+133,Santa Lucía,Atlántico,Colombia
+134,Santo Tomás,Atlántico,Colombia
+135,Soledad,Atlántico,Colombia
+136,Suan,Atlántico,Colombia
+137,Tubará,Atlántico,Colombia
+138,Usiacurí,Atlántico,Colombia
+139,Achí,Bolívar,Colombia
+140,Arenal,Bolívar,Colombia
+141,Arjona,Bolívar,Colombia
+142,Arroyohondo,Bolívar,Colombia
+143,Calamar,Bolívar,Colombia
+144,Cantagallo,Bolívar,Colombia
+145,Cicuco,Bolívar,Colombia
+146,Córdoba,Bolívar,Colombia
+147,Clemencia,Bolívar,Colombia
+148,El Guamo,Bolívar,Colombia
+149,Magangué,Bolívar,Colombia
+150,Mahates,Bolívar,Colombia
+151,Margarita,Bolívar,Colombia
+152,Montecristo,Bolívar,Colombia
+153,Mompós,Bolívar,Colombia
+154,Morales,Bolívar,Colombia
+155,Norosí,Bolívar,Colombia
+156,Pinillos,Bolívar,Colombia
+157,Regidor,Bolívar,Colombia
+158,Río Viejo,Bolívar,Colombia
+159,San Estanislao,Bolívar,Colombia
+160,San Fernando,Bolívar,Colombia
+161,San Juan Nepomuceno,Bolívar,Colombia
+162,Santa Catalina,Bolívar,Colombia
+163,Santa Rosa,Bolívar,Colombia
+164,Simití,Bolívar,Colombia
+165,Soplaviento,Bolívar,Colombia
+166,Talaigua Nuevo,Bolívar,Colombia
+167,Tiquisio,Bolívar,Colombia
+168,Turbaco,Bolívar,Colombia
+169,Turbaná,Bolívar,Colombia
+170,Villanueva,Bolívar,Colombia
+171,Tunja,Boyacá,Colombia
+172,Almeida,Boyacá,Colombia
+173,Aquitania,Boyacá,Colombia
+174,Arcabuco,Boyacá,Colombia
+175,Berbeo,Boyacá,Colombia
+176,Betéitiva,Boyacá,Colombia
+177,Boavita,Boyacá,Colombia
+178,Boyacá,Boyacá,Colombia
+179,Briceño,Boyacá,Colombia
+180,Buena Vista,Boyacá,Colombia
+181,Busbanzá,Boyacá,Colombia
+182,Caldas,Boyacá,Colombia
+183,Campohermoso,Boyacá,Colombia
+184,Cerinza,Boyacá,Colombia
+185,Chinavita,Boyacá,Colombia
+186,Chiquinquirá,Boyacá,Colombia
+187,Chiscas,Boyacá,Colombia
+188,Chita,Boyacá,Colombia
+189,Chitaraque,Boyacá,Colombia
+190,Chivatá,Boyacá,Colombia
+191,Cómbita,Boyacá,Colombia
+192,Coper,Boyacá,Colombia
+193,Corrales,Boyacá,Colombia
+194,Covarachía,Boyacá,Colombia
+195,Cubará,Boyacá,Colombia
+196,Cucaita,Boyacá,Colombia
+197,Cuítiva,Boyacá,Colombia
+198,Chíquiza,Boyacá,Colombia
+199,Chivor,Boyacá,Colombia
+200,Duitama,Boyacá,Colombia
+201,El Cocuy,Boyacá,Colombia
+202,El Espino,Boyacá,Colombia
+203,Firavitoba,Boyacá,Colombia
+204,Floresta,Boyacá,Colombia
+205,Gachantivá,Boyacá,Colombia
+206,Gameza,Boyacá,Colombia
+207,Garagoa,Boyacá,Colombia
+208,Guacamayas,Boyacá,Colombia
+209,Guateque,Boyacá,Colombia
+210,Guayatá,Boyacá,Colombia
+211,Güicán,Boyacá,Colombia
+212,Iza,Boyacá,Colombia
+213,Jenesano,Boyacá,Colombia
+214,Jericó,Boyacá,Colombia
+215,Labranzagrande,Boyacá,Colombia
+216,La Capilla,Boyacá,Colombia
+217,La Victoria,Boyacá,Colombia
+218,Macanal,Boyacá,Colombia
+219,Maripí,Boyacá,Colombia
+220,Miraflores,Boyacá,Colombia
+221,Mongua,Boyacá,Colombia
+222,Monguí,Boyacá,Colombia
+223,Moniquirá,Boyacá,Colombia
+224,Muzo,Boyacá,Colombia
+225,Nobsa,Boyacá,Colombia
+226,Nuevo Colón,Boyacá,Colombia
+227,Oicatá,Boyacá,Colombia
+228,Otanche,Boyacá,Colombia
+229,Pachavita,Boyacá,Colombia
+230,Páez,Boyacá,Colombia
+231,Paipa,Boyacá,Colombia
+232,Pajarito,Boyacá,Colombia
+233,Panqueba,Boyacá,Colombia
+234,Pauna,Boyacá,Colombia
+235,Paya,Boyacá,Colombia
+236,Pesca,Boyacá,Colombia
+237,Pisba,Boyacá,Colombia
+238,Puerto Boyacá,Boyacá,Colombia
+239,Quípama,Boyacá,Colombia
+240,Ramiriquí,Boyacá,Colombia
+241,Ráquira,Boyacá,Colombia
+242,Rondón,Boyacá,Colombia
+243,Saboyá,Boyacá,Colombia
+244,Sáchica,Boyacá,Colombia
+245,Samacá,Boyacá,Colombia
+246,San Eduardo,Boyacá,Colombia
+247,San Mateo,Boyacá,Colombia
+248,Santana,Boyacá,Colombia
+249,Santa María,Boyacá,Colombia
+250,Santa Sofía,Boyacá,Colombia
+251,Sativanorte,Boyacá,Colombia
+252,Sativasur,Boyacá,Colombia
+253,Siachoque,Boyacá,Colombia
+254,Soatá,Boyacá,Colombia
+255,Socotá,Boyacá,Colombia
+256,Socha,Boyacá,Colombia
+257,Sogamoso,Boyacá,Colombia
+258,Somondoco,Boyacá,Colombia
+259,Sora,Boyacá,Colombia
+260,Sotaquirá,Boyacá,Colombia
+261,Soracá,Boyacá,Colombia
+262,Susacón,Boyacá,Colombia
+263,Sutamarchán,Boyacá,Colombia
+264,Sutatenza,Boyacá,Colombia
+265,Tasco,Boyacá,Colombia
+266,Tenza,Boyacá,Colombia
+267,Tibaná,Boyacá,Colombia
+268,Tinjacá,Boyacá,Colombia
+269,Tipacoque,Boyacá,Colombia
+270,Toca,Boyacá,Colombia
+271,Tópaga,Boyacá,Colombia
+272,Tota,Boyacá,Colombia
+273,Turmequé,Boyacá,Colombia
+274,Tutazá,Boyacá,Colombia
+275,Umbita,Boyacá,Colombia
+276,Ventaquemada,Boyacá,Colombia
+277,Viracachá,Boyacá,Colombia
+278,Zetaquira,Boyacá,Colombia
+279,Manizales,Caldas,Colombia
+280,Aguadas,Caldas,Colombia
+281,Anserma,Caldas,Colombia
+282,Aranzazu,Caldas,Colombia
+283,Belalcázar,Caldas,Colombia
+284,Chinchiná,Caldas,Colombia
+285,Filadelfia,Caldas,Colombia
+286,La Dorada,Caldas,Colombia
+287,La Merced,Caldas,Colombia
+288,Manzanares,Caldas,Colombia
+289,Marmato,Caldas,Colombia
+290,Marulanda,Caldas,Colombia
+291,Neira,Caldas,Colombia
+292,Norcasia,Caldas,Colombia
+293,Pácora,Caldas,Colombia
+294,Palestina,Caldas,Colombia
+295,Pensilvania,Caldas,Colombia
+296,Riosucio,Caldas,Colombia
+297,Risaralda,Caldas,Colombia
+298,Salamina,Caldas,Colombia
+299,Samaná,Caldas,Colombia
+300,San José,Caldas,Colombia
+301,Supía,Caldas,Colombia
+302,Victoria,Caldas,Colombia
+303,Villamaría,Caldas,Colombia
+304,Viterbo,Caldas,Colombia
+305,Florencia,Caquetá,Colombia
+306,Albania,Caquetá,Colombia
+307,Curillo,Caquetá,Colombia
+308,El Doncello,Caquetá,Colombia
+309,El Paujil,Caquetá,Colombia
+310,Morelia,Caquetá,Colombia
+311,Puerto Rico,Caquetá,Colombia
+312,Solano,Caquetá,Colombia
+313,Solita,Caquetá,Colombia
+314,Valparaíso,Caquetá,Colombia
+315,Popayán,Cauca,Colombia
+316,Almaguer,Cauca,Colombia
+317,Argelia,Cauca,Colombia
+318,Balboa,Cauca,Colombia
+319,Bolívar,Cauca,Colombia
+320,Buenos Aires,Cauca,Colombia
+321,Cajibío,Cauca,Colombia
+322,Caldono,Cauca,Colombia
+323,Caloto,Cauca,Colombia
+324,Corinto,Cauca,Colombia
+325,El Tambo,Cauca,Colombia
+326,Florencia,Cauca,Colombia
+327,Guachené,Cauca,Colombia
+328,Guapi,Cauca,Colombia
+329,Inzá,Cauca,Colombia
+330,Jambaló,Cauca,Colombia
+331,La Sierra,Cauca,Colombia
+332,La Vega,Cauca,Colombia
+333,López,Cauca,Colombia
+334,Mercaderes,Cauca,Colombia
+335,Miranda,Cauca,Colombia
+336,Morales,Cauca,Colombia
+337,Padilla,Cauca,Colombia
+338,Patía,Cauca,Colombia
+339,Piamonte,Cauca,Colombia
+340,Piendamó,Cauca,Colombia
+341,Puerto Tejada,Cauca,Colombia
+342,Puracé,Cauca,Colombia
+343,Rosas,Cauca,Colombia
+344,Santa Rosa,Cauca,Colombia
+345,Silvia,Cauca,Colombia
+346,Sotara,Cauca,Colombia
+347,Suárez,Cauca,Colombia
+348,Sucre,Cauca,Colombia
+349,Timbío,Cauca,Colombia
+350,Timbiquí,Cauca,Colombia
+351,Toribio,Cauca,Colombia
+352,Totoró,Cauca,Colombia
+353,Villa Rica,Cauca,Colombia
+354,Valledupar,Cesar,Colombia
+355,Aguachica,Cesar,Colombia
+356,Agustín Codazzi,Cesar,Colombia
+357,Astrea,Cesar,Colombia
+358,Becerril,Cesar,Colombia
+359,Bosconia,Cesar,Colombia
+360,Chimichagua,Cesar,Colombia
+361,Chiriguaná,Cesar,Colombia
+362,Curumaní,Cesar,Colombia
+363,El Copey,Cesar,Colombia
+364,El Paso,Cesar,Colombia
+365,Gamarra,Cesar,Colombia
+366,González,Cesar,Colombia
+367,La Gloria,Cesar,Colombia
+368,Manaure,Cesar,Colombia
+369,Pailitas,Cesar,Colombia
+370,Pelaya,Cesar,Colombia
+371,Pueblo Bello,Cesar,Colombia
+372,La Paz,Cesar,Colombia
+373,San Alberto,Cesar,Colombia
+374,San Diego,Cesar,Colombia
+375,San Martín,Cesar,Colombia
+376,Tamalameque,Cesar,Colombia
+377,Montería,Córdoba,Colombia
+378,Ayapel,Córdoba,Colombia
+379,Buenavista,Córdoba,Colombia
+380,Canalete,Córdoba,Colombia
+381,Cereté,Córdoba,Colombia
+382,Chimá,Córdoba,Colombia
+383,Chinú,Córdoba,Colombia
+384,Cotorra,Córdoba,Colombia
+385,Lorica,Córdoba,Colombia
+386,Los Córdobas,Córdoba,Colombia
+387,Momil,Córdoba,Colombia
+388,Moñitos,Córdoba,Colombia
+389,Planeta Rica,Córdoba,Colombia
+390,Pueblo Nuevo,Córdoba,Colombia
+391,Puerto Escondido,Córdoba,Colombia
+392,Purísima,Córdoba,Colombia
+393,Sahagún,Córdoba,Colombia
+394,San Andrés Sotavento,Córdoba,Colombia
+395,San Antero,Córdoba,Colombia
+396,San Pelayo,Córdoba,Colombia
+397,Tierralta,Córdoba,Colombia
+398,Tuchín,Córdoba,Colombia
+399,Valencia,Córdoba,Colombia
+400,Anapoima,Cundinamarca,Colombia
+401,Arbeláez,Cundinamarca,Colombia
+402,Beltrán,Cundinamarca,Colombia
+403,Bituima,Cundinamarca,Colombia
+404,Bojacá,Cundinamarca,Colombia
+405,Cabrera,Cundinamarca,Colombia
+406,Cachipay,Cundinamarca,Colombia
+407,Cajicá,Cundinamarca,Colombia
+408,Caparrapí,Cundinamarca,Colombia
+409,Caqueza,Cundinamarca,Colombia
+410,Chaguaní,Cundinamarca,Colombia
+411,Chipaque,Cundinamarca,Colombia
+412,Choachí,Cundinamarca,Colombia
+413,Chocontá,Cundinamarca,Colombia
+414,Cogua,Cundinamarca,Colombia
+415,Cota,Cundinamarca,Colombia
+416,Cucunubá,Cundinamarca,Colombia
+417,El Colegio,Cundinamarca,Colombia
+418,El Rosal,Cundinamarca,Colombia
+419,Fomeque,Cundinamarca,Colombia
+420,Fosca,Cundinamarca,Colombia
+421,Funza,Cundinamarca,Colombia
+422,Fúquene,Cundinamarca,Colombia
+423,Gachala,Cundinamarca,Colombia
+424,Gachancipá,Cundinamarca,Colombia
+425,Gachetá,Cundinamarca,Colombia
+426,Girardot,Cundinamarca,Colombia
+427,Granada,Cundinamarca,Colombia
+428,Guachetá,Cundinamarca,Colombia
+429,Guaduas,Cundinamarca,Colombia
+430,Guasca,Cundinamarca,Colombia
+431,Guataquí,Cundinamarca,Colombia
+432,Guatavita,Cundinamarca,Colombia
+433,Guayabetal,Cundinamarca,Colombia
+434,Gutiérrez,Cundinamarca,Colombia
+435,Jerusalén,Cundinamarca,Colombia
+436,Junín,Cundinamarca,Colombia
+437,La Calera,Cundinamarca,Colombia
+438,La Mesa,Cundinamarca,Colombia
+439,La Palma,Cundinamarca,Colombia
+440,La Peña,Cundinamarca,Colombia
+441,La Vega,Cundinamarca,Colombia
+442,Lenguazaque,Cundinamarca,Colombia
+443,Macheta,Cundinamarca,Colombia
+444,Madrid,Cundinamarca,Colombia
+445,Manta,Cundinamarca,Colombia
+446,Medina,Cundinamarca,Colombia
+447,Mosquera,Cundinamarca,Colombia
+448,Nariño,Cundinamarca,Colombia
+449,Nemocón,Cundinamarca,Colombia
+450,Nilo,Cundinamarca,Colombia
+451,Nimaima,Cundinamarca,Colombia
+452,Nocaima,Cundinamarca,Colombia
+453,Venecia,Cundinamarca,Colombia
+454,Pacho,Cundinamarca,Colombia
+455,Paime,Cundinamarca,Colombia
+456,Pandi,Cundinamarca,Colombia
+457,Paratebueno,Cundinamarca,Colombia
+458,Pasca,Cundinamarca,Colombia
+459,Puerto Salgar,Cundinamarca,Colombia
+460,Pulí,Cundinamarca,Colombia
+461,Quebradanegra,Cundinamarca,Colombia
+462,Quetame,Cundinamarca,Colombia
+463,Quipile,Cundinamarca,Colombia
+464,Apulo,Cundinamarca,Colombia
+465,Ricaurte,Cundinamarca,Colombia
+466,San Bernardo,Cundinamarca,Colombia
+467,San Cayetano,Cundinamarca,Colombia
+468,San Francisco,Cundinamarca,Colombia
+469,Sesquilé,Cundinamarca,Colombia
+470,Sibaté,Cundinamarca,Colombia
+471,Silvania,Cundinamarca,Colombia
+472,Simijaca,Cundinamarca,Colombia
+473,Soacha,Cundinamarca,Colombia
+474,Subachoque,Cundinamarca,Colombia
+475,Suesca,Cundinamarca,Colombia
+476,Supatá,Cundinamarca,Colombia
+477,Susa,Cundinamarca,Colombia
+478,Sutatausa,Cundinamarca,Colombia
+479,Tabio,Cundinamarca,Colombia
+480,Tausa,Cundinamarca,Colombia
+481,Tena,Cundinamarca,Colombia
+482,Tenjo,Cundinamarca,Colombia
+483,Tibacuy,Cundinamarca,Colombia
+484,Tibirita,Cundinamarca,Colombia
+485,Tocaima,Cundinamarca,Colombia
+486,Tocancipá,Cundinamarca,Colombia
+487,Topaipí,Cundinamarca,Colombia
+488,Ubalá,Cundinamarca,Colombia
+489,Ubaque,Cundinamarca,Colombia
+490,Une,Cundinamarca,Colombia
+491,Útica,Cundinamarca,Colombia
+492,Vianí,Cundinamarca,Colombia
+493,Villagómez,Cundinamarca,Colombia
+494,Villapinzón,Cundinamarca,Colombia
+495,Villeta,Cundinamarca,Colombia
+496,Viotá,Cundinamarca,Colombia
+497,Zipacón,Cundinamarca,Colombia
+498,Quibdó,Chocó,Colombia
+499,Acandí,Chocó,Colombia
+500,Alto Baudo,Chocó,Colombia
+501,Atrato,Chocó,Colombia
+502,Bagadó,Chocó,Colombia
+503,Bahía Solano,Chocó,Colombia
+504,Bajo Baudó,Chocó,Colombia
+505,Bojaya,Chocó,Colombia
+506,Cértegui,Chocó,Colombia
+507,Condoto,Chocó,Colombia
+508,Juradó,Chocó,Colombia
+509,Lloró,Chocó,Colombia
+510,Medio Atrato,Chocó,Colombia
+511,Medio Baudó,Chocó,Colombia
+512,Medio San Juan,Chocó,Colombia
+513,Nóvita,Chocó,Colombia
+514,Nuquí,Chocó,Colombia
+515,Río Iro,Chocó,Colombia
+516,Río Quito,Chocó,Colombia
+517,Riosucio,Chocó,Colombia
+518,Sipí,Chocó,Colombia
+519,Unguía,Chocó,Colombia
+520,Neiva,Huila,Colombia
+521,Acevedo,Huila,Colombia
+522,Agrado,Huila,Colombia
+523,Aipe,Huila,Colombia
+524,Algeciras,Huila,Colombia
+525,Altamira,Huila,Colombia
+526,Baraya,Huila,Colombia
+527,Campoalegre,Huila,Colombia
+528,Colombia,Huila,Colombia
+529,Elías,Huila,Colombia
+530,Garzón,Huila,Colombia
+531,Gigante,Huila,Colombia
+532,Guadalupe,Huila,Colombia
+533,Hobo,Huila,Colombia
+534,Iquira,Huila,Colombia
+535,Isnos,Huila,Colombia
+536,La Argentina,Huila,Colombia
+537,La Plata,Huila,Colombia
+538,Nátaga,Huila,Colombia
+539,Oporapa,Huila,Colombia
+540,Paicol,Huila,Colombia
+541,Palermo,Huila,Colombia
+542,Palestina,Huila,Colombia
+543,Pital,Huila,Colombia
+544,Pitalito,Huila,Colombia
+545,Rivera,Huila,Colombia
+546,Saladoblanco,Huila,Colombia
+547,Santa María,Huila,Colombia
+548,Suaza,Huila,Colombia
+549,Tarqui,Huila,Colombia
+550,Tesalia,Huila,Colombia
+551,Tello,Huila,Colombia
+552,Teruel,Huila,Colombia
+553,Timaná,Huila,Colombia
+554,Villavieja,Huila,Colombia
+555,Yaguará,Huila,Colombia
+556,Riohacha,La Guajira,Colombia
+557,Albania,La Guajira,Colombia
+558,Barrancas,La Guajira,Colombia
+559,Dibula,La Guajira,Colombia
+560,Distracción,La Guajira,Colombia
+561,El Molino,La Guajira,Colombia
+562,Fonseca,La Guajira,Colombia
+563,Hatonuevo,La Guajira,Colombia
+564,Maicao,La Guajira,Colombia
+565,Manaure,La Guajira,Colombia
+566,Uribia,La Guajira,Colombia
+567,Urumita,La Guajira,Colombia
+568,Villanueva,La Guajira,Colombia
+569,Santa Marta,Magdalena,Colombia
+570,Algarrobo,Magdalena,Colombia
+571,Aracataca,Magdalena,Colombia
+572,Ariguaní,Magdalena,Colombia
+573,Cerro San Antonio,Magdalena,Colombia
+574,Chivolo,Magdalena,Colombia
+575,Concordia,Magdalena,Colombia
+576,El Banco,Magdalena,Colombia
+577,El Piñon,Magdalena,Colombia
+578,El Retén,Magdalena,Colombia
+579,Fundación,Magdalena,Colombia
+580,Guamal,Magdalena,Colombia
+581,Nueva Granada,Magdalena,Colombia
+582,Pedraza,Magdalena,Colombia
+583,Pivijay,Magdalena,Colombia
+584,Plato,Magdalena,Colombia
+585,Remolino,Magdalena,Colombia
+586,Salamina,Magdalena,Colombia
+587,San Zenón,Magdalena,Colombia
+588,Santa Ana,Magdalena,Colombia
+589,Sitionuevo,Magdalena,Colombia
+590,Tenerife,Magdalena,Colombia
+591,Zapayán,Magdalena,Colombia
+592,Zona Bananera,Magdalena,Colombia
+593,Villavicencio,Meta,Colombia
+594,Acacias,Meta,Colombia
+595,Cabuyaro,Meta,Colombia
+596,Cubarral,Meta,Colombia
+597,Cumaral,Meta,Colombia
+598,El Calvario,Meta,Colombia
+599,El Castillo,Meta,Colombia
+600,El Dorado,Meta,Colombia
+601,Granada,Meta,Colombia
+602,Guamal,Meta,Colombia
+603,Mapiripán,Meta,Colombia
+604,Mesetas,Meta,Colombia
+605,La Macarena,Meta,Colombia
+606,Lejanías,Meta,Colombia
+607,Puerto Concordia,Meta,Colombia
+608,Puerto Gaitán,Meta,Colombia
+609,Puerto López,Meta,Colombia
+610,Puerto Lleras,Meta,Colombia
+611,Puerto Rico,Meta,Colombia
+612,Restrepo,Meta,Colombia
+613,San Juanito,Meta,Colombia
+614,San Martín,Meta,Colombia
+615,Vista Hermosa,Meta,Colombia
+616,Pasto,Nariño,Colombia
+617,Albán,Nariño,Colombia
+618,Aldana,Nariño,Colombia
+619,Ancuyá,Nariño,Colombia
+620,Barbacoas,Nariño,Colombia
+621,Colón,Nariño,Colombia
+622,Consaca,Nariño,Colombia
+623,Contadero,Nariño,Colombia
+624,Córdoba,Nariño,Colombia
+625,Cuaspud,Nariño,Colombia
+626,Cumbal,Nariño,Colombia
+627,Cumbitara,Nariño,Colombia
+628,El Charco,Nariño,Colombia
+629,El Peñol,Nariño,Colombia
+630,El Rosario,Nariño,Colombia
+631,El Tambo,Nariño,Colombia
+632,Funes,Nariño,Colombia
+633,Guachucal,Nariño,Colombia
+634,Guaitarilla,Nariño,Colombia
+635,Gualmatán,Nariño,Colombia
+636,Iles,Nariño,Colombia
+637,Imués,Nariño,Colombia
+638,Ipiales,Nariño,Colombia
+639,La Cruz,Nariño,Colombia
+640,La Florida,Nariño,Colombia
+641,La Llanada,Nariño,Colombia
+642,La Tola,Nariño,Colombia
+643,La Unión,Nariño,Colombia
+644,Leiva,Nariño,Colombia
+645,Linares,Nariño,Colombia
+646,Los Andes,Nariño,Colombia
+647,Magüí,Nariño,Colombia
+648,Mallama,Nariño,Colombia
+649,Mosquera,Nariño,Colombia
+650,Nariño,Nariño,Colombia
+651,Olaya Herrera,Nariño,Colombia
+652,Ospina,Nariño,Colombia
+653,Francisco Pizarro,Nariño,Colombia
+654,Policarpa,Nariño,Colombia
+655,Potosí,Nariño,Colombia
+656,Providencia,Nariño,Colombia
+657,Puerres,Nariño,Colombia
+658,Pupiales,Nariño,Colombia
+659,Ricaurte,Nariño,Colombia
+660,Roberto Payán,Nariño,Colombia
+661,Samaniego,Nariño,Colombia
+662,Sandoná,Nariño,Colombia
+663,San Bernardo,Nariño,Colombia
+664,San Lorenzo,Nariño,Colombia
+665,San Pablo,Nariño,Colombia
+666,Santa Bárbara,Nariño,Colombia
+667,Sapuyes,Nariño,Colombia
+668,Taminango,Nariño,Colombia
+669,Tangua,Nariño,Colombia
+670,Túquerres,Nariño,Colombia
+671,Yacuanquer,Nariño,Colombia
+672,Armenia,Quindío,Colombia
+673,Buenavista,Quindío,Colombia
+674,Circasia,Quindío,Colombia
+675,Córdoba,Quindío,Colombia
+676,Filandia,Quindío,Colombia
+677,La Tebaida,Quindío,Colombia
+678,Montenegro,Quindío,Colombia
+679,Pijao,Quindío,Colombia
+680,Quimbaya,Quindío,Colombia
+681,Salento,Quindío,Colombia
+682,Pereira,Risaralda,Colombia
+683,Apía,Risaralda,Colombia
+684,Balboa,Risaralda,Colombia
+685,Dosquebradas,Risaralda,Colombia
+686,Guática,Risaralda,Colombia
+687,La Celia,Risaralda,Colombia
+688,La Virginia,Risaralda,Colombia
+689,Marsella,Risaralda,Colombia
+690,Mistrató,Risaralda,Colombia
+691,Pueblo Rico,Risaralda,Colombia
+692,Quinchía,Risaralda,Colombia
+693,Santuario,Risaralda,Colombia
+694,Bucaramanga,Santander,Colombia
+695,Aguada,Santander,Colombia
+696,Albania,Santander,Colombia
+697,Aratoca,Santander,Colombia
+698,Barbosa,Santander,Colombia
+699,Barichara,Santander,Colombia
+700,Barrancabermeja,Santander,Colombia
+701,Betulia,Santander,Colombia
+702,Bolívar,Santander,Colombia
+703,Cabrera,Santander,Colombia
+704,California,Santander,Colombia
+705,Carcasí,Santander,Colombia
+706,Cepitá,Santander,Colombia
+707,Cerrito,Santander,Colombia
+708,Charalá,Santander,Colombia
+709,Charta,Santander,Colombia
+710,Chipatá,Santander,Colombia
+711,Cimitarra,Santander,Colombia
+712,Concepción,Santander,Colombia
+713,Confines,Santander,Colombia
+714,Contratación,Santander,Colombia
+715,Coromoro,Santander,Colombia
+716,Curití,Santander,Colombia
+717,El Guacamayo,Santander,Colombia
+718,El Playón,Santander,Colombia
+719,Encino,Santander,Colombia
+720,Enciso,Santander,Colombia
+721,Florián,Santander,Colombia
+722,Floridablanca,Santander,Colombia
+723,Galán,Santander,Colombia
+724,Gambita,Santander,Colombia
+725,Girón,Santander,Colombia
+726,Guaca,Santander,Colombia
+727,Guadalupe,Santander,Colombia
+728,Guapotá,Santander,Colombia
+729,Guavatá,Santander,Colombia
+730,Güepsa,Santander,Colombia
+731,Jesús María,Santander,Colombia
+732,Jordán,Santander,Colombia
+733,La Belleza,Santander,Colombia
+734,Landázuri,Santander,Colombia
+735,La Paz,Santander,Colombia
+736,Lebríja,Santander,Colombia
+737,Los Santos,Santander,Colombia
+738,Macaravita,Santander,Colombia
+739,Málaga,Santander,Colombia
+740,Matanza,Santander,Colombia
+741,Mogotes,Santander,Colombia
+742,Molagavita,Santander,Colombia
+743,Ocamonte,Santander,Colombia
+744,Oiba,Santander,Colombia
+745,Onzaga,Santander,Colombia
+746,Palmar,Santander,Colombia
+747,Páramo,Santander,Colombia
+748,Piedecuesta,Santander,Colombia
+749,Pinchote,Santander,Colombia
+750,Puente Nacional,Santander,Colombia
+751,Rionegro,Santander,Colombia
+752,San Andrés,Santander,Colombia
+753,San Gil,Santander,Colombia
+754,San Joaquín,Santander,Colombia
+755,San Miguel,Santander,Colombia
+756,Santa Bárbara,Santander,Colombia
+757,Simacota,Santander,Colombia
+758,Socorro,Santander,Colombia
+759,Suaita,Santander,Colombia
+760,Sucre,Santander,Colombia
+761,Suratá,Santander,Colombia
+762,Tona,Santander,Colombia
+763,Vélez,Santander,Colombia
+764,Vetas,Santander,Colombia
+765,Villanueva,Santander,Colombia
+766,Zapatoca,Santander,Colombia
+767,Sincelejo,Sucre,Colombia
+768,Buenavista,Sucre,Colombia
+769,Caimito,Sucre,Colombia
+770,Coloso,Sucre,Colombia
+771,Coveñas,Sucre,Colombia
+772,Chalán,Sucre,Colombia
+773,El Roble,Sucre,Colombia
+774,Galeras,Sucre,Colombia
+775,Guaranda,Sucre,Colombia
+776,La Unión,Sucre,Colombia
+777,Los Palmitos,Sucre,Colombia
+778,Majagual,Sucre,Colombia
+779,Morroa,Sucre,Colombia
+780,Ovejas,Sucre,Colombia
+781,Palmito,Sucre,Colombia
+782,San Benito Abad,Sucre,Colombia
+783,San Marcos,Sucre,Colombia
+784,San Onofre,Sucre,Colombia
+785,San Pedro,Sucre,Colombia
+786,Sucre,Sucre,Colombia
+787,Tolú Viejo,Sucre,Colombia
+788,Alpujarra,Tolima,Colombia
+789,Alvarado,Tolima,Colombia
+790,Ambalema,Tolima,Colombia
+791,Armero,Tolima,Colombia
+792,Ataco,Tolima,Colombia
+793,Cajamarca,Tolima,Colombia
+794,Chaparral,Tolima,Colombia
+795,Coello,Tolima,Colombia
+796,Coyaima,Tolima,Colombia
+797,Cunday,Tolima,Colombia
+798,Dolores,Tolima,Colombia
+799,Espinal,Tolima,Colombia
+800,Falan,Tolima,Colombia
+801,Flandes,Tolima,Colombia
+802,Fresno,Tolima,Colombia
+803,Guamo,Tolima,Colombia
+804,Herveo,Tolima,Colombia
+805,Honda,Tolima,Colombia
+806,Icononzo,Tolima,Colombia
+807,Mariquita,Tolima,Colombia
+808,Melgar,Tolima,Colombia
+809,Murillo,Tolima,Colombia
+810,Natagaima,Tolima,Colombia
+811,Ortega,Tolima,Colombia
+812,Palocabildo,Tolima,Colombia
+813,Piedras,Tolima,Colombia
+814,Planadas,Tolima,Colombia
+815,Prado,Tolima,Colombia
+816,Purificación,Tolima,Colombia
+817,Rio Blanco,Tolima,Colombia
+818,Roncesvalles,Tolima,Colombia
+819,Rovira,Tolima,Colombia
+820,Saldaña,Tolima,Colombia
+821,Santa Isabel,Tolima,Colombia
+822,Venadillo,Tolima,Colombia
+823,Villahermosa,Tolima,Colombia
+824,Villarrica,Tolima,Colombia
+825,Arauquita,Arauca,Colombia
+826,Cravo Norte,Arauca,Colombia
+827,Fortul,Arauca,Colombia
+828,Puerto Rondón,Arauca,Colombia
+829,Saravena,Arauca,Colombia
+830,Tame,Arauca,Colombia
+831,Arauca,Arauca,Colombia
+832,Yopal,Casanare,Colombia
+833,Aguazul,Casanare,Colombia
+834,Chámeza,Casanare,Colombia
+835,Hato Corozal,Casanare,Colombia
+836,La Salina,Casanare,Colombia
+837,Monterrey,Casanare,Colombia
+838,Pore,Casanare,Colombia
+839,Recetor,Casanare,Colombia
+840,Sabanalarga,Casanare,Colombia
+841,Sácama,Casanare,Colombia
+842,Tauramena,Casanare,Colombia
+843,Trinidad,Casanare,Colombia
+844,Villanueva,Casanare,Colombia
+845,Mocoa,Putumayo,Colombia
+846,Colón,Putumayo,Colombia
+847,Orito,Putumayo,Colombia
+848,Puerto Caicedo,Putumayo,Colombia
+849,Puerto Guzmán,Putumayo,Colombia
+850,Leguízamo,Putumayo,Colombia
+851,Sibundoy,Putumayo,Colombia
+852,San Francisco,Putumayo,Colombia
+853,San Miguel,Putumayo,Colombia
+854,Santiago,Putumayo,Colombia
+855,Leticia,Amazonas,Colombia
+856,El Encanto,Amazonas,Colombia
+857,La Chorrera,Amazonas,Colombia
+858,La Pedrera,Amazonas,Colombia
+859,La Victoria,Amazonas,Colombia
+860,Puerto Arica,Amazonas,Colombia
+861,Puerto Nariño,Amazonas,Colombia
+862,Puerto Santander,Amazonas,Colombia
+863,Tarapacá,Amazonas,Colombia
+864,Inírida,Guainía,Colombia
+865,Barranco Minas,Guainía,Colombia
+866,Mapiripana,Guainía,Colombia
+867,San Felipe,Guainía,Colombia
+868,Puerto Colombia,Guainía,Colombia
+869,La Guadalupe,Guainía,Colombia
+870,Cacahual,Guainía,Colombia
+871,Pana Pana,Guainía,Colombia
+872,Mitú,Vaupés,Colombia
+873,Carurú,Vaupés,Colombia
+874,Taraira,Vaupés,Colombia
+875,Papunahua,Vaupés,Colombia
+876,Yavaraté,Vaupés,Colombia
+877,Pacoa,Vaupés,Colombia
+878,Morichal,Guainía,Colombia
+879,Puerto Carreño,Vichada,Colombia
+880,La Primavera,Vichada,Colombia
+881,Santa Rosalía,Vichada,Colombia
+882,Cumaribo,Vichada,Colombia
+883,San José del Fragua,Caquetá,Colombia
+884,Barranca de Upía,Meta,Colombia
+885,Palmas del Socorro,Santander,Colombia
+886,San Juan de Río Seco,Cundinamarca,Colombia
+887,Juan de Acosta,Atlántico,Colombia
+888,Fuente de Oro,Meta,Colombia
+889,San Luis de Gaceno,Casanare,Colombia
+890,El Litoral del San Juan,Chocó,Colombia
+891,Villa de San Diego de Ubate,Cundinamarca,Colombia
+892,Barranco de Loba,Bolívar,Colombia
+893,Togüí,Boyacá,Colombia
+894,Santa Rosa del Sur,Bolívar,Colombia
+895,El Cantón del San Pablo,Chocó,Colombia
+896,Villa de Leyva,Boyacá,Colombia
+897,San Sebastián de Buenavista,Magdalena,Colombia
+898,Paz de Río,Boyacá,Colombia
+899,Hatillo de Loba,Bolívar,Colombia
+900,Sabanas de San Angel,Magdalena,Colombia
+901,Calamar,Guaviare,Colombia
+902,Río de Oro,Cesar,Colombia
+903,San Pedro de Uraba,Antioquia,Colombia
+904,San José del Guaviare,Guaviare,Colombia
+905,Santa Rosa de Viterbo,Boyacá,Colombia
+906,Santander de Quilichao,Cauca,Colombia
+907,Miraflores,Guaviare,Colombia
+908,Santafé de Antioquia,Antioquia,Colombia
+909,San Carlos de Guaroa,Meta,Colombia
+910,Palmar de Varela,Atlántico,Colombia
+911,Santa Rosa de Osos,Antioquia,Colombia
+912,San Andrés de Cuerquía,Antioquia,Colombia
+913,Valle de San Juan,Tolima,Colombia
+914,San Vicente de Chucurí,Santander,Colombia
+915,San José de Miranda,Santander,Colombia
+916,Providencia,"Archipiélago de San Andrés, Providencia y Santa Catalina",Colombia
+917,Santa Rosa de Cabal,Risaralda,Colombia
+918,Guayabal de Siquima,Cundinamarca,Colombia
+919,Belén de Los Andaquies,Caquetá,Colombia
+920,Paz de Ariporo,Casanare,Colombia
+921,Santa Helena del Opón,Santander,Colombia
+922,San Pablo de Borbur,Boyacá,Colombia
+923,La Jagua del Pilar,La Guajira,Colombia
+924,La Jagua de Ibirico,Cesar,Colombia
+925,San Luis de Sincé,Sucre,Colombia
+926,San Luis de Gaceno,Boyacá,Colombia
+927,El Carmen de Bolívar,Bolívar,Colombia
+928,El Carmen de Atrato,Chocó,Colombia
+929,San Juan de Betulia,Sucre,Colombia
+930,Pijiño del Carmen,Magdalena,Colombia
+931,Vigía del Fuerte,Antioquia,Colombia
+932,San Martín de Loba,Bolívar,Colombia
+933,Altos del Rosario,Bolívar,Colombia
+934,Carmen de Apicala,Tolima,Colombia
+935,San Antonio del Tequendama,Cundinamarca,Colombia
+936,Sabana de Torres,Santander,Colombia
+937,El Retorno,Guaviare,Colombia
+938,San José de Uré,Córdoba,Colombia
+939,San Pedro de Cartago,Nariño,Colombia
+940,Campo de La Cruz,Atlántico,Colombia
+941,San Juan de Arama,Meta,Colombia
+942,San José de La Montaña,Antioquia,Colombia
+943,Cartagena del Chairá,Caquetá,Colombia
+944,San José del Palmar,Chocó,Colombia
+945,Agua de Dios,Cundinamarca,Colombia
+946,San Jacinto del Cauca,Bolívar,Colombia
+947,San Agustín,Huila,Colombia
+948,El Tablón de Gómez,Nariño,Colombia
+949,San Andrés,"Archipiélago de San Andrés, Providencia y Santa Catalina",Colombia
+950,San José de Pare,Boyacá,Colombia
+951,Valle de Guamez,Putumayo,Colombia
+952,San Pablo de Borbur,Bolívar,Colombia
+953,Santiago de Tolú,Sucre,Colombia
+954,Bogotá D.C.,Bogotá D.C.,Colombia
+955,Carmen de Carupa,Cundinamarca,Colombia
+956,Ciénaga de Oro,Córdoba,Colombia
+957,San Juan de Urabá,Antioquia,Colombia
+958,San Juan del Cesar,La Guajira,Colombia
+959,El Carmen de Chucurí,Santander,Colombia
+960,El Carmen de Viboral,Antioquia,Colombia
+961,Belén de Umbría,Risaralda,Colombia
+962,Belén de Bajira,Chocó,Colombia
+963,Valle de San José,Santander,Colombia
+964,San Luis,Tolima,Colombia
+965,San Miguel de Sema,Boyacá,Colombia
+966,San Antonio,Tolima,Colombia
+967,San Benito,Santander,Colombia
+968,Vergara,Cundinamarca,Colombia
+969,San Carlos,Córdoba,Colombia
+970,Puerto Alegría,Amazonas,Colombia
+971,Hato,Santander,Colombia
+972,San Jacinto,Bolívar,Colombia
+973,San Sebastián,Cauca,Colombia
+974,San Carlos,Antioquia,Colombia
+975,Tuta,Boyacá,Colombia
+976,Silos,Norte de Santander,Colombia
+977,Cácota,Norte de Santander,Colombia
+978,El Dovio,Valle del Cauca,Colombia
+979,Toledo,Norte de Santander,Colombia
+980,Roldanillo,Valle del Cauca,Colombia
+981,Mutiscua,Norte de Santander,Colombia
+982,Argelia,Valle del Cauca,Colombia
+983,El Zulia,Norte de Santander,Colombia
+984,Salazar,Norte de Santander,Colombia
+985,Sevilla,Valle del Cauca,Colombia
+986,Zarzal,Valle del Cauca,Colombia
+987,Cucutilla,Norte de Santander,Colombia
+988,El Cerrito,Valle del Cauca,Colombia
+989,Cartago,Valle del Cauca,Colombia
+990,Caicedonia,Valle del Cauca,Colombia
+991,Puerto Santander,Norte de Santander,Colombia
+992,Gramalote,Norte de Santander,Colombia
+993,El Cairo,Valle del Cauca,Colombia
+994,El Tarra,Norte de Santander,Colombia
+995,La Unión,Valle del Cauca,Colombia
+996,Restrepo,Valle del Cauca,Colombia
+997,Teorama,Norte de Santander,Colombia
+998,Dagua,Valle del Cauca,Colombia
+999,Arboledas,Norte de Santander,Colombia
+1000,Guacarí,Valle del Cauca,Colombia
+1001,Lourdes,Norte de Santander,Colombia
+1002,Ansermanuevo,Valle del Cauca,Colombia
+1003,Bochalema,Norte de Santander,Colombia
+1004,Bugalagrande,Valle del Cauca,Colombia
+1005,Convención,Norte de Santander,Colombia
+1006,Hacarí,Norte de Santander,Colombia
+1007,La Victoria,Valle del Cauca,Colombia
+1008,Herrán,Norte de Santander,Colombia
+1009,Ginebra,Valle del Cauca,Colombia
+1010,Yumbo,Valle del Cauca,Colombia
+1011,Obando,Valle del Cauca,Colombia
+1012,Tibú,Norte de Santander,Colombia
+1013,San Cayetano,Norte de Santander,Colombia
+1014,San Calixto,Norte de Santander,Colombia
+1015,Bolívar,Valle del Cauca,Colombia
+1016,La Playa,Norte de Santander,Colombia
+1017,Cali,Valle del Cauca,Colombia
+1018,San Pedro,Valle del Cauca,Colombia
+1019,Guadalajara de Buga,Valle del Cauca,Colombia
+1020,Chinácota,Norte de Santander,Colombia
+1021,Ragonvalia,Norte de Santander,Colombia
+1022,La Esperanza,Norte de Santander,Colombia
+1023,Villa del Rosario,Norte de Santander,Colombia
+1024,Chitagá,Norte de Santander,Colombia
+1025,Calima,Valle del Cauca,Colombia
+1026,Sardinata,Norte de Santander,Colombia
+1027,Andalucía,Valle del Cauca,Colombia
+1028,Pradera,Valle del Cauca,Colombia
+1029,Abrego,Norte de Santander,Colombia
+1030,Los Patios,Norte de Santander,Colombia
+1031,Ocaña,Norte de Santander,Colombia
+1032,Bucarasica,Norte de Santander,Colombia
+1033,Yotoco,Valle del Cauca,Colombia
+1034,Palmira,Valle del Cauca,Colombia
+1035,Riofrío,Valle del Cauca,Colombia
+1036,Santiago,Norte de Santander,Colombia
+1037,Alcalá,Valle del Cauca,Colombia
+1038,Versalles,Valle del Cauca,Colombia
+1039,Labateca,Norte de Santander,Colombia
+1040,Cachirá,Norte de Santander,Colombia
+1041,Villa Caro,Norte de Santander,Colombia
+1042,Durania,Norte de Santander,Colombia
+1043,El Águila,Valle del Cauca,Colombia
+1044,Toro,Valle del Cauca,Colombia
+1045,Candelaria,Valle del Cauca,Colombia
+1046,La Cumbre,Valle del Cauca,Colombia
+1047,Ulloa,Valle del Cauca,Colombia
+1048,Trujillo,Valle del Cauca,Colombia
+1049,Vijes,Valle del Cauca,Colombia
+1050,Chimá,Santander,Colombia
+1051,Sampués,Sucre,Colombia
+1052,Nunchía,Casanare,Colombia
+1053,Pamplona,Norte de Santander,Colombia
+1054,Albán,Cundinamarca,Colombia
+1055,Montelíbano,Córdoba,Colombia
+1056,Puerto Asís,Putumayo,Colombia
+1057,Corozal,Sucre,Colombia
+1058,Buesaco,Nariño,Colombia
+1059,Maní,Casanare,Colombia
+1060,El Peñón,Bolívar,Colombia
+1061,Tuluá,Valle del Cauca,Colombia
+1062,Casabianca,Tolima,Colombia
+1063,Anolaima,Cundinamarca,Colombia
+1064,Chía,Cundinamarca,Colombia
+1065,San Andrés de Tumaco,Nariño,Colombia
+1066,Milán,Caquetá,Colombia
+1067,Capitanejo,Santander,Colombia
+1068,Anzoátegui,Tolima,Colombia
+1069,Florida,Valle del Cauca,Colombia
+1070,Repelón,Atlántico,Colombia
+1071,Frontino,Antioquia,Colombia
+1072,El Peñón,Cundinamarca,Colombia
+1073,Pamplonita,Norte de Santander,Colombia
+1074,Miriti Paraná,Amazonas,Colombia
+1075,Támara,Casanare,Colombia
+1076,Tibasosa,Boyacá,Colombia
+1077,Páez,Cauca,Colombia
+1078,Ibagué,Tolima,Colombia
+1079,Puerto Colombia,Atlántico,Colombia
+1080,Belén,Nariño,Colombia
+1081,Sopó,Cundinamarca,Colombia
+1082,Carmen del Darien,Chocó,Colombia
+1083,Gama,Cundinamarca,Colombia
+1084,Sasaima,Cundinamarca,Colombia
+1085,Chachagüí,Nariño,Colombia
+1086,Cúcuta,Norte de Santander,Colombia
+1087,Cartagena,Bolívar,Colombia
+1088,Granada,Antioquia,Colombia
+1089,Santa Bárbara de Pinto,Magdalena,Colombia
+1090,María la Baja,Bolívar,Colombia
+1091,La Montañita,Caquetá,Colombia
+1092,San Vicente del Caguán,Caquetá,Colombia
+1093,El Peñón,Santander,Colombia
+1094,Jardín,Antioquia,Colombia
+1095,Jamundí,Valle del Cauca,Colombia
+1096,Tadó,Chocó,Colombia
+1097,Orocué,Casanare,Colombia
+1098,Líbano,Tolima,Colombia
+1099,Yacopí,Cundinamarca,Colombia
+1100,Calarcá,Quindío,Colombia
+1101,Sonsón,Antioquia,Colombia
+1102,El Carmen,Norte de Santander,Colombia
+1103,Lérida,Tolima,Colombia
+1104,La Apartada,Córdoba,Colombia
+1105,San Cristóbal,Bolívar,Colombia
+1106,Fusagasugá,Cundinamarca,Colombia
+1107,Zambrano,Bolívar,Colombia
+1108,La Uvita,Boyacá,Colombia
+1109,Zipaquirá,Cundinamarca,Colombia
+1110,Génova,Quindío,Colombia
+1111,Suárez,Tolima,Colombia
+1112,Castilla la Nueva,Meta,Colombia
+1113,Belén,Boyacá,Colombia
+1114,Unión Panamericana,Chocó,Colombia
+1115,Pueblo Viejo,Magdalena,Colombia
+1116,Villagarzón,Putumayo,Colombia
+1117,Facatativá,Cundinamarca,Colombia
+1118,Puerto Libertador,Córdoba,Colombia
+1119,Marquetalia,Caldas,Colombia
+1120,Arboleda,Nariño,Colombia
+1121,Buenaventura,Valle del Cauca,Colombia
+1122,Ciénaga,Magdalena,Colombia
+1123,Ponedera,Atlántico,Colombia

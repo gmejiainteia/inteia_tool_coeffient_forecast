@@ -1,0 +1,12 @@
+autots[additional]
+
+osmnx
+
+python-dotenv
+openpyxl
+pyodbc
+
+plotly
+streamlit
+st-pages
+streamlit-authenticator
